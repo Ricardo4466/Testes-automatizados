@@ -1,4 +1,4 @@
-# Instruções para a aula
+# Instruções 
 
 ### Criação do banco de dados:
 
@@ -8,6 +8,4 @@ npx sequelize db:create
 npx sequelize db:migrate
 ```
 
-### Siga as instruções na aula
 
-[Link para a video aula](https://youtu.be/B1kWb7tWoxs)
